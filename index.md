@@ -7,4 +7,4 @@ Source Links<br>
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/game_final_backup.json">App Store Games</a>
 <br><br>
 Text Document 
-<a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/documents">Dcouments</a>
+<a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/documents">Documents</a>
