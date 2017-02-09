@@ -5,7 +5,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[https://github.com/pallavikakunje/CS838-DataScience/blob/master/Report-Stage1.pdf](another-page).
 
 There should be whitespace between paragraphs.
 
