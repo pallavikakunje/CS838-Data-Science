@@ -1,0 +1,6 @@
+#!/bin/bash
+for a in {0..598}
+do
+	echo "reading file$a"
+	python tagging.py file-$a.txt
+done
