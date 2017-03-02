@@ -9,3 +9,8 @@
     - feature_extraction.py 
 #### Traning and cross validation
     - learning.py
+        - read feature list & class list
+        - CV scores from Classifiers
+        - Linear Regression CV
+### Testing 
+     - testing.py
