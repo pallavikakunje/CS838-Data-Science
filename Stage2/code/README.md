@@ -2,7 +2,10 @@
 
 ### Steps:
 #### Data cleaning 
+    - scrip_to_clean_data
 #### Data Tagging 
-#### Genearating feature and class list using features
+    - entity_tagging.py
+#### Feature Extraction
+    - feature_extraction.py 
 #### Traning and cross validation
-#### Test 
+    - learning.py
