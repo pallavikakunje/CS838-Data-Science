@@ -10,7 +10,10 @@ Source Links<br>
 Text Document 
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/documents">Documents</a>
 
+
+
 #Stage 2
+<br>
 [Project Report](https://github.com/pallavikakunje/CS838-DataScience/blob/master/Report-Stage2.pdf).
 ### Document Links 
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/Stage2/all_text_documents">All Text Documents</a><br>
