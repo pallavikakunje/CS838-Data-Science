@@ -20,4 +20,5 @@ Text Document
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/Stage2/set_I_text_documents">Training Set (Set I)</a><br>
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/Stage2/set_J_documents">Testing Set (Set J)</a><br>
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/Stage2/code">Source Code</a><br>
+<a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/Stage2/Stage2.zip">Zipped Folder</a><br>
 
