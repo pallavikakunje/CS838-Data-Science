@@ -1,6 +1,6 @@
 
-#Stage 1
-
+<h1>Stage 1</h1>
+<br>
 [Project Report](https://github.com/pallavikakunje/CS838-DataScience/blob/master/Report-Stage1.pdf).
 
 Source Links<br>
@@ -12,7 +12,7 @@ Text Document
 
 
 
-#Stage 2
+<h1>Stage 2</h1>
 <br>
 [Project Report](https://github.com/pallavikakunje/CS838-DataScience/blob/master/Report-Stage2.pdf).
 ### Document Links 
