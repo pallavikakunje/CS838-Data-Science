@@ -1,0 +1,12 @@
+Data Sources: Two selected data sources are Google Play Store (google.csv) and Apple Store (apple.csv). The game data was extracted (in stage one) using scrapy tool and stored in csv format.
+
+Each tuple in both the tables describe a single game application. Table schema is of the form (ID, name, category, developer, rating). Below are the details of the attributes:
+ID: Index for tuple
+name: Contains game's name
+category: Contains the category to which the game belongs
+developer: Name of developer
+rating: Average rating obtained by the game application by user
+
+Number of tuples in google table (google.csv):  3789
+Number of tuples in apple table (apple.csv): 3697
+
