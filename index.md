@@ -24,7 +24,7 @@ Text Document
 
 <h1>Stage 3</h1>
 <br>
-<a href="CS838-DataScience/Report-Stage3.pdf" download="projetc report">Project Report</a>
+<a href="https://github.com/pallavikakunje/CS838-DataScience/blob/master/Report-Stage3.pdf">Project Report</a>
 <br> 
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/stage3/DATA">DATA Directory</a><br>
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/stage3/CODE">CODE Directory</a><br>
