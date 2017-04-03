@@ -22,3 +22,11 @@ Text Document
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/Stage2/code">Source Code</a><br>
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/Stage2/Stage2.zip">Zipped Folder</a><br>
 
+<h1>Stage 3</h1>
+<br>
+[Project Report](https://github.com/pallavikakunje/CS838-DataScience/blob/master/Report-Stage3.pdf).
+### Document Links 
+<a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/stage3/DATA">DATA Directory</a><br>
+<a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/stage3/CODE">CODE Directory</a><br>
+
+
