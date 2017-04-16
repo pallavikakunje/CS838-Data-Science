@@ -29,4 +29,11 @@ Text Document
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/stage3/DATA">DATA Directory</a><br>
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/tree/master/stage3/CODE">CODE Directory</a><br>
 
+<h1>Stage 4</h1>
+<br>
+<a href="https://github.com/pallavikakunje/CS838-DataScience/blob/master/Report-Stage4.pdf">Project Report</a>
+<br> 
+<a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/gaurav/stage4/merged_tuples.csv">Table E (merged_tuples.csv)</a><br>
+<a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/gaurav/stage4/matched_tuples.csv">Matches (matched_tuples.csv)</a><br>
+<a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/gaurav/stage4/merger.py">Python Script (merger.py)</a><br>
 
