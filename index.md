@@ -31,7 +31,7 @@ Text Document
 
 <h1>Stage 4</h1>
 <br>
-<a href="https://github.com/pallavikakunje/CS838-DataScience/blob/master/Report-Stage4.pdf">Project Report</a>
+<a href="https://github.com/pallavikakunje/CS838-DataScience/raw/master/Report-Stage4.pdf">Project Report</a>
 <br> 
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/gaurav/stage4/merged_tuples.csv">Table E (merged_tuples.csv)</a><br>
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/gaurav/stage4/matched_tuples.csv">Matches (matched_tuples.csv)</a><br>
