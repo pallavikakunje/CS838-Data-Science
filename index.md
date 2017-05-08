@@ -37,3 +37,8 @@ Text Document
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/gaurav/stage4/matched_tuples.csv">Matches (matched_tuples.csv)</a><br>
 <a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/gaurav/stage4/merger.py">Python Script (merger.py)</a><br>
 
+<h1>Stage 5</h1>
+<br>
+<a href="https://github.com/pallavikakunje/CS838-DataScience/raw/master/stage5/DS_stage5.pdf">Project Report</a>
+<br> 
+<a href = "https://github.com/pallavikakunje/CS838-DataScience/blob/master/stage5/merged_tuples.csv">Table E (merged_tuples.csv)</a><br>
